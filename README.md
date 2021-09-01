@@ -1,0 +1,5 @@
+# Remote-sensing-cage-segmentation-dataset(RSCS dataset)
+1. The remote sensing image samples used in this article are all from "Google Earth", mainly by searching the sea areas that have marine aquaculture cages in China, such as Hainan, Guangdong, and Shandong.  
+2. Due to the harsh conditions of marine aquaculture, the number of images collected is relatively scarce. Finally, a total of 53 high-resolution aquaculture remote sensing cages were collected, including 50 in the training set and 3 in the test set.  
+3. The three test sets were taken from Li'an Port, Xincun Port and Potou Port. The cages in Li'an Port are sparsely distributed, and the resolution of the collected images is 10000×8224. The cages in Xincun Port are densely distributed, and the resolution of the collected images is 13000×8000. The cages in Potou Port are moderately distributed but have complex styles. The resolution of the collected images is 15344×8224. Through 3 test samples of different types of net cage scenarios, it can better verify the actual segmentation effect and application scenarios of the built model.  
+
